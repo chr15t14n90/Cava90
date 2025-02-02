@@ -12,13 +12,12 @@
    - [Fase 4: Seguridad y Optimización](#fase-4-seguridad-y-optimización)
    - [Fase 5: Innovación y Escalabilidad](#fase-5-innovación-y-escalabilidad)
 6. [Instalación y Uso](#instalación-y-uso)
-
 7. [Licencia](#licencia)
 
 ---
 
 ## 1. Introducción
-El presente documento describe el desarrollo del proyecto Cava90, el cual tiene como objetivo la automatización de la gestión de cookies en sitios web. Mediante el uso de inteligencia artificial (IA) y Cloudflare, el sistema permitirá la generación dinámica de plantillas de políticas de cookies basadas en la ubicación del usuario y normativas legales vigentes.
+El presente documento describe el desarrollo del proyecto **Cava90**, el cual tiene como objetivo la automatización de la gestión de cookies en sitios web. Mediante el uso de inteligencia artificial (IA) y Cloudflare, el sistema permitirá la generación dinámica de plantillas de políticas de cookies basadas en la ubicación del usuario y las normativas legales vigentes.
 
 ## 2. Objetivos del Proyecto
 - **Automatización de la gestión de cookies** según regulaciones internacionales.
@@ -35,7 +34,7 @@ El presente documento describe el desarrollo del proyecto Cava90, el cual tiene 
 - **Automatización**: CI/CD para gestión de cambios en el repositorio.
 
 ## 4. Flujo de Datos del Usuario
-A continuación, se describe el flujo de datos del usuario en el sistema Cava90:
+A continuación, se describe el flujo de datos del usuario en el sistema **Cava90**:
 
 ```plaintext
 [Recopilación de Datos del Usuario]
@@ -145,5 +144,5 @@ A continuación, se describe el flujo de datos del usuario en el sistema Cava90:
      uvicorn app:app --reload
      ```
 
-4. **Licencia**  
-   Este proyecto está bajo la MIT License.
+## 6. Licencia
+Este proyecto está bajo la **MIT License**.
