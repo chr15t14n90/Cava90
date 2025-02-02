@@ -63,6 +63,7 @@ A continuación, se describe el flujo de datos del usuario en el sistema Cava90:
           |
           v
 [A/B Testing y Autooptimización] ---> [Métricas de Engagement + AI para Mejora Continua]
+```
 
 ## 5. Etapas de Implementación
 
@@ -97,39 +98,52 @@ A continuación, se describe el flujo de datos del usuario en el sistema Cava90:
 
 ## 6. Instalación y Uso
 
-1. **Clonación del Repositorio**
+1. **Clonación del Repositorio**  
    Clona el repositorio de **Cava90** en tu máquina local:
 
    ```bash
    git clone https://github.com/Chr15t14n90/Cava90.git
    cd Cava90
-Instalación de Dependencias Instala las dependencias necesarias:
+   ```
+## 6. Instalación y Uso
 
-Node.js (Express.js):
+1. **Clonación del Repositorio**  
+   Clona el repositorio de **Cava90** en tu máquina local:
 
-bash
-Copiar
-Editar
-npm install
-Python (FastAPI):
+   ```bash
+   git clone https://github.com/Chr15t14n90/Cava90.git
+   cd Cava90
+   ```
 
-bash
-Copiar
-Editar
-pip install -r requirements.txt
-Ejecutar el Proyecto Para ejecutar el proyecto:
+2. **Instalación de Dependencias**  
+   Instala las dependencias necesarias:
 
-Node.js (Express.js):
+   - **Node.js (Express.js):**
 
-bash
-Copiar
-Editar
-npm start
-Python (FastAPI):
+     ```bash
+     npm install
+     ```
 
-bash
-Copiar
-Editar
-uvicorn app:app --reload
-7. Licencia
-Este proyecto está bajo la MIT License.
+   - **Python (FastAPI):**
+
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+3. **Ejecutar el Proyecto**  
+   Para ejecutar el proyecto:
+
+   - **Node.js (Express.js):**
+
+     ```bash
+     npm start
+     ```
+
+   - **Python (FastAPI):**
+
+     ```bash
+     uvicorn app:app --reload
+     ```
+
+4. **Licencia**  
+   Este proyecto está bajo la MIT License.
