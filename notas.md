@@ -9,8 +9,8 @@
    - [Fase 1: Definición y Configuración del Entorno](#fase-1-definición-y-configuración-del-entorno)
    - [Fase 2: Implementación de la API Backend](#fase-2-implementación-de-la-api-backend)
    - [Fase 3: Base de Datos y Personalización](#fase-3-base-de-datos-y-personalización)
-   - [Fase 4: Seguridad y Optimización](#fase-4-seguridad-y-optimización)
-   - [Fase 5: Innovación y Escalabilidad](#fase-5-innovación-y-escalabilidad)
+   - [Fase 4: Seguridad y Optimización](#fase-4-seguridad-y-optimizacion)
+   - [Fase 5: Innovación y Escalabilidad](#fase-5-innovacion-y-escalabilidad)
 6. [Instalación y Uso](#instalación-y-uso)
 7. [Licencia](#licencia)
 
