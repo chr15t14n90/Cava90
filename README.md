@@ -33,6 +33,14 @@ graph TD;
     G -->|Personalización de la Experiencia del Usuario| H[Historial de Usuario + Base de Datos (PostgreSQL/Firebase)];
     H -->|A/B Testing y Autooptimización| I[Métricas de Engagement + AI para Mejora Continua];
 
+    # Índice
+1. [Introducción](#1-introducción)
+2. [Objetivos del Proyecto](#2-objetivos-del-proyecto)
+3. [Tecnologías Utilizadas](#3-tecnologías-utilizadas)
+4. [Flujo de Datos del Usuario](#4-flujo-de-datos-del-usuario)
+5. [Etapas de Implementación](#etapas-de-implementación)
+
+
 # Etapas de Implementación
 
 ## Fase 1: Definición y Configuración del Entorno
